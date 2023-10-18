@@ -1,0 +1,1 @@
+SENS - HIGH1; RES - 0.1 nm; START - 1405; STOP - 1655; SPAN - 250.
